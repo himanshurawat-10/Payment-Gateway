@@ -6,8 +6,7 @@ I am delighted to share all with you that I have successfully completed #task2 a
 
 Editor: Visual Studio Code
 Front End : HTML5, CSS3, Bootstrap and JS
-Back End : PHP
-Database : MySQL
+
 
 Batch - #GRIPMAY22
 
