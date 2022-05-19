@@ -12,7 +12,7 @@ Database : MySQL
 Batch - #GRIPMAY22
 
 
-GithuB Link : https://github.com/himanshurawat-10/Spark-Bank
+GithuB Link : https://github.com/himanshurawat-10/Payment-Gateway
 
 #gripmay22 #thesparksfoundation #webdevelopment #thesparkfoundation #GRIPMAY2022
 
